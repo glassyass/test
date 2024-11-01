@@ -1,5 +1,5 @@
 ---
-title: Glacier - Portfolio - Full width
+title: FrostFire Images Portfolio
 builder: true
 
 # Content section
