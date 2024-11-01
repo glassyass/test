@@ -1,5 +1,5 @@
 ---
-title: Glacier - Home - Landing Page
+title: FrostFire Images
 builder: true
 
 # Content section
@@ -18,7 +18,7 @@ sections:
 
 # Parallax
 parallaxImage: images/parallax-6.jpg
-parallaxTitle: "landing page"
+parallaxTitle: "FrostFire Images"
 effectTitle: "fadeIn" # Full list effects you can find in documentation theme
 parallaxVideo: "hide" # Support YouTube and Vimeo video 
 parallaxVideoLink: "" # If "parallaxVideo" is "show"
